@@ -1,0 +1,6 @@
+{
+  "extends":"@antfu",
+  "rules": {
+    "prettier/prettier": "off"
+  }
+}
